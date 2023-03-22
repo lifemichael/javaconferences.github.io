@@ -51,6 +51,7 @@
 | [JConf Peru](https://jconf.perujug.org/) | online | no | October? 2023 | - |
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | October? 2023 | - |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) || JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
+| [XtremeJ] (https://xtremej.dev) | Tel-Aviv, Israel | yes | 7 November 2023 | [Link](https://forms.gle/FktjcVrjquLdMfEZ6) | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | - |
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
