@@ -54,7 +54,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closed April 1) |
 | [JConf Peru](https://jconf.perujug.org/) | online | no | October? 2023 | - |
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | October? 2023 | - |
-| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 15) |
+| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) (Closes May 15) |
+| [XtremeJ](https://xtremej.dev) | Online | no | 7 November 2023 | [Link](https://forms.gle/KyTgBTyjpC7b5GBi7/) (Closed September 30) |
 | JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
 | [JDevSummit IL](https://jdevsummitil.com/) | Tel-Aviv, Israel | no | 20 November 2023 | [Link](https://sessionize.com/jdev-summit-il-23/) (Closed June 8) |
